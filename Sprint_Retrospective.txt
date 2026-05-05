@@ -1,7 +1,0 @@
-Sprint Retrospective
-
-O que funcionou de forma adequada: O uso de branches separadas (index e contato) funcionou muito bem para organizar o trabalho sem alterar o código principal direto.
-
-O que não funcionou de forma adequada: Dificuldade inicial com alguns comandos no terminal do Git e na hora de fazer o merge (quando abriu a tela do editor Vim).
-
-Sugestões de melhoria: Praticar mais os comandos do Git no terminal e fazer commits menores e mais frequentes.
