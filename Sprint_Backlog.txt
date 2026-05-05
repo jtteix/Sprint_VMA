@@ -1,7 +1,0 @@
-Sprint Backlog
-
-História ID 1: Alterar a cor do texto do nome dos veículos para azul no arquivo index.html.
-Esforço Estimado: 3 horas.
-
-História ID 3: Mudar a descrição dos links no arquivo contato.html.
-Esforço Estimado: 2 horas.
